@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Geofence</string>
+    <string name="welcome_to_geofence">Welcome to Geofence</string>
+    <string name="here_you_can_choose_to_log_in_as_admin_or_employee">Here You can choose to log in as admin</string>
+    <string name="here_you_can_choose_login_as_admin_or_employee">Here you can choose login as Admin or employee</string>
+    <string name="if_you_have_not_open_a_account">If you have not open a Account</string>
+    <string name="create_an_organization">Create an Organization</string>
 </resources>
